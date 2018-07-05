@@ -5,8 +5,7 @@ Join Frank Kane, who worked on Amazon and IMDb’s machine learning algorithms, 
 
 Based on Frank’s successful data science course, Hands-On Data Science and Python Machine Learning empowers you to conduct data analysis and perform efficient machine learning using Python. Let Frank help you unearth the value in your data using the various data mining and data analysis techniques available in Python, and to develop efficient predictive models to predict future results. You will also learn how to perform large-scale machine learning on Big Data using Apache Spark. The book covers preparing your data for analysis, training machine learning models, and visualizing the final data analysis.
 ## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
-
+All of the code used in the book are present here. Following is a example of the code block used in the book
 
 
 The code will look like the following:

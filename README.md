@@ -31,3 +31,7 @@ df = pd.read_csv(input_file, header = 0)
 * [Getting Started With Oracle SOA Suite 11g R1 - A Hands-On Tutorial](https://www.packtpub.com/application-development/getting-started-oracle-soa-suite-11g-r1-–-hands-tutorial?utm_source=github&utm_medium=repository&utm_campaign=9781847199782)
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787280748">https://packt.link/free-ebook/9781787280748 </a> </p>
